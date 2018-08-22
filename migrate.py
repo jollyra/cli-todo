@@ -17,7 +17,8 @@ def create_db(conn):
         CREATE TABLE todo (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             description TEXT,
-            ordering INTEGER NOT NULL
+            ordering INTEGER NOT NULL,
+            priority INTEGER
         );
     """)
 
