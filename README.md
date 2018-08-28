@@ -1,6 +1,6 @@
 # cli-todo
 
-A Unix CLI todo app framework designed with the Git UI in mind.
+A Unix CLI todo app framework designed with the Git UI in mind. I wrote this in preparation for a pair programming interview and it turned out awesome. It's a great starting framework for future Python apps.
 
 
 ```
